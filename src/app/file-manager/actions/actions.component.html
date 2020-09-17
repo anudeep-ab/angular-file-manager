@@ -1,0 +1,12 @@
+<div class="d-flex p-2">
+
+    <p-dialog header="Upload File" [(visible)]="display">
+        <p-fileUpload name="myfile[]" url=""></p-fileUpload>
+    </p-dialog>
+
+    <button type="button" (click)="showDialog()" pButton class="btn btn-info mr-2" label="Upload"></button>
+
+
+    <button class="btn btn-primary mr-2">Download</button>
+    <button class="btn btn-danger mr-2">Delete</button>
+</div>

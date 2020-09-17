@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "label": "Applications",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Applications",
+        "size": "200mb",
+        "type": "Folder"
+      },
+
+      "children": [
+        {
+          "label": "Angular",
+          "expandedIcon": "pi pi-folder-open",
+          "collapsedIcon": "pi pi-folder",
+          "data": {
+            "name": "Angular",
+            "size": "25mb",
+            "type": "Folder"
+          },
+          "children": [
+            {
+              "label": "angular.app",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "angular.app",
+                "size": "10mb",
+                "type": "Application"
+              }
+            },
+            {
+              "label": "cli.app",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "cli.app",
+                "size": "10mb",
+                "type": "Application"
+              }
+            },
+            {
+              "label": "mobile.app",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "mobile.app",
+                "size": "5mb",
+                "type": "Application"
+              }
+            }
+          ]
+        },
+        {
+          "label": "editor.app",
+          "icon": "pi pi-file",
+          "data": {
+            "name": "editor.app",
+            "size": "25mb",
+            "type": "Application"
+          }
+        },
+        {
+          "label": "settings.app",
+          "icon": "pi pi-file",
+          "data": {
+            "name": "settings.app",
+            "size": "50mb",
+            "type": "Application"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Cloud",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Cloud",
+        "size": "20mb",
+        "type": "Folder"
+      },
+      "children": [
+        {
+          "label": "backup-1.zip",
+          "expandedIcon": "pi pi-folder-open",
+          "collapsedIcon": "pi pi-folder",
+          "data": {
+            "name": "backup-1.zip",
+            "size": "10mb",
+            "type": "Zip"
+          }
+        },
+        {
+          "label": "backup-2.zip",
+          "expandedIcon": "pi pi-folder-open",
+          "collapsedIcon": "pi pi-folder",
+          "data": {
+            "name": "backup-2.zip",
+            "size": "10mb",
+            "type": "Zip"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Desktop",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Desktop",
+        "size": "150kb",
+        "type": "Folder"
+      },
+      "children": [
+        {
+          "label": "note-meeting.txt",
+          "icon": "pi pi-file",
+          "data": {
+            "name": "note-meeting.txt",
+            "size": "50kb",
+            "type": "Text"
+          }
+        },
+        {
+          "label": "note-todo.txt",
+          "icon": "pi pi-file",
+          "data": {
+            "name": "note-todo.txt",
+            "size": "100kb",
+            "type": "Text"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Documents",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Documents",
+        "size": "75kb",
+        "type": "Folder"
+      },
+      "children": [
+        {
+          "label": "Work",
+          "expandedIcon": "pi pi-folder-open",
+          "collapsedIcon": "pi pi-folder",
+          "data": {
+            "name": "Work",
+            "size": "55kb",
+            "type": "Folder"
+          },
+          "children": [
+            {
+              "label": "Expenses.doc",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "Expenses.doc",
+                "size": "30kb",
+                "type": "Document"
+              }
+            },
+            {
+              "label": "Resume.doc",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "Resume.doc",
+                "size": "25kb",
+                "type": "Resume"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Home",
+          "expandedIcon": "pi pi-folder-open",
+          "collapsedIcon": "pi pi-folder",
+          "data": {
+            "name": "Home",
+            "size": "20kb",
+            "type": "Folder"
+          },
+          "children": [
+            {
+              "label": "Invoices",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "Invoices",
+                "size": "20kb",
+                "type": "Text"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Downloads",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Downloads",
+        "size": "25mb",
+        "type": "Folder"
+      },
+      "children": [
+        {
+          "label": "Spanish",
+          "expandedIcon": "pi pi-folder-open",
+          "collapsedIcon": "pi pi-folder",
+          "data": {
+            "name": "Spanish",
+            "size": "10mb",
+            "type": "Folder"
+          },
+          "children": [
+            {
+              "label": "tutorial-a1.txt",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "tutorial-a1.txt",
+                "size": "5mb",
+                "type": "Text"
+              }
+            },
+            {
+              "label": "tutorial-a2.txt",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "tutorial-a2.txt",
+                "size": "5mb",
+                "type": "Text"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Travel",
+          "expandedIcon": "pi pi-folder-open",
+          "collapsedIcon": "pi pi-folder",
+          "data": {
+            "name": "Travel",
+            "size": "15mb",
+            "type": "Text"
+          },
+          "children": [
+            {
+              "label": "Hotel.pdf",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "Hotel.pdf",
+                "size": "10mb",
+                "type": "PDF"
+              }
+            },
+            {
+              "label": "Flight.pdf",
+              "icon": "pi pi-file",
+              "data": {
+                "name": "Flight.pdf",
+                "size": "5mb",
+                "type": "PDF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Main",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Main",
+        "size": "50mb",
+        "type": "Folder"
+      },
+      "children": [
+        {
+          "label": "bin",
+          "icon": "pi pi-file",
+          "data": {
+            "name": "bin",
+            "size": "50kb",
+            "type": "Link"
+          }
+        },
+        {
+          "label": "etc",
+          "icon": "pi pi-file",
+          "data": {
+            "name": "etc",
+            "size": "100kb",
+            "type": "Link"
+          }
+        },
+        {
+          "label": "var",
+          "icon": "pi pi-file",
+          "data": {
+            "name": "var",
+            "size": "100kb",
+            "type": "Link"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Other",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Other",
+        "size": "5mb",
+        "type": "Folder"
+      },
+      "children": [
+        {
+          "label": "todo.txt",
+          "icon": "pi pi-file",
+          "data": {
+            "name": "todo.txt",
+            "size": "3mb",
+            "type": "Text"
+          }
+        },
+        {
+          "label": "logo.png",
+          "icon": "pi pi-image",
+          "data": {
+            "name": "logo.png",
+            "size": "2mb",
+            "type": "Picture"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Pictures",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Pictures",
+        "size": "150kb",
+        "type": "Folder"
+      },
+      "children": [
+        {
+          "label": "barcelona.jpg",
+          "icon": "pi pi-image",
+          "data": {
+            "name": "barcelona.jpg",
+            "size": "90kb",
+            "type": "Picture"
+          }
+        },
+        {
+          "label": "prime.png",
+          "icon": "pi pi-image",
+          "data": {
+            "name": "prime.png",
+            "size": "30kb",
+            "type": "Picture"
+          }
+        },
+        {
+          "label": "windows.jpg",
+          "icon": "pi pi-image",
+          "data": {
+            "name": "windows.jpg",
+            "size": "30kb",
+            "type": "Picture"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Videos",
+      "expandedIcon": "pi pi-folder-open",
+      "collapsedIcon": "pi pi-folder",
+      "data": {
+        "name": "Videos",
+        "size": "1500mb",
+        "type": "Folder"
+      },
+      "children": [
+        {
+          "label": "primefaces.mkv",
+          "icon": "pi pi-video",
+          "data": {
+            "name": "primefaces.mkv",
+            "size": "1000mb",
+            "type": "Video"
+          }
+        },
+        {
+          "label": "intro.avi",
+          "icon": "pi pi-video",
+          "data": {
+            "name": "intro.avi",
+            "size": "500mb",
+            "type": "Video"
+          }
+        }
+      ]
+    }
+  ]
+}
